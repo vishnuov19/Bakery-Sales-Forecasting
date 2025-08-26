@@ -2,7 +2,7 @@ Bakery Sales Forecasting Dashboard
 
 This project presents a Bakery Sales Forecasting Dashboard, a web-based analytical tool designed to empower bakery businesses with data-driven decision-making capabilities. It leverages historical sales data, time-series forecasting, and interactive dashboards to help bakery owners and managers optimize inventory, predict demand, and increase profitability.
 
-Features :
+#Features :
 
 - Interactive dashboard to visualize daily, weekly, and monthly sales trends
 
@@ -14,7 +14,7 @@ Features :
 
 - Actionable recommendations for inventory and demand planning
 
-Tech Stack :
+#Tech Stack :
 
 Frontend: React.js / HTML / CSS
 
@@ -26,10 +26,10 @@ Forecasting Models: ARIMA, Prophet, LSTM
 
 Visualization: Plotly, Matplotlib, Seaborn, Power BI / Tableau (optional)
 
-Database: SQLite / MySQL / PostgreSQL
+#Database: SQLite / MySQL / PostgreSQL
 
 
-Forecasting Approaches :
+#Forecasting Approaches :
 
 ARIMA: Captures trend and seasonality
 
@@ -37,7 +37,7 @@ Prophet: Handles complex seasonal patterns (daily, weekly, holidays)
 
 LSTM: Deep learning-based sequence forecasting
 
-Use Cases :
+#Use Cases :
 
 Bakery owners: Plan inventory and staffing
 
